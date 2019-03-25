@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/koboy/CLionProjects/hw6/Complex.cpp
+Complex.h
+C:/Users/koboy/CLionProjects/hw6/Complex.h
+
+C:/Users/koboy/CLionProjects/hw6/Complex.h
+iostream
+-
+
+C:/Users/koboy/CLionProjects/hw6/main.cpp
+Complex.h
+C:/Users/koboy/CLionProjects/hw6/Complex.h
+

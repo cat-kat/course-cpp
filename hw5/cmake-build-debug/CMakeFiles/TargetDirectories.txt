@@ -1,0 +1,3 @@
+C:/Users/koboy/CLionProjects/hw5/cmake-build-debug/CMakeFiles/5f.dir
+C:/Users/koboy/CLionProjects/hw5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/koboy/CLionProjects/hw5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/koboy/CLionProjects/hw9/Array.h
+cstddef
+-
+ostream
+-
+utility
+-
+
+C:/Users/koboy/CLionProjects/hw9/Array.hpp
+Array.h
+C:/Users/koboy/CLionProjects/hw9/Array.h
+iostream
+-
+
+C:/Users/koboy/CLionProjects/hw9/main.cpp
+iostream
+-
+typeinfo
+-
+tuple
+-
+stdexcept
+-
+Array.hpp
+C:/Users/koboy/CLionProjects/hw9/Array.hpp
+

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/koboy/CLionProjects/hw5/String.cpp
+String.h
+C:/Users/koboy/CLionProjects/hw5/String.h
+cstring
+-
+algorithm
+-
+iostream
+-
+
+C:/Users/koboy/CLionProjects/hw5/String.h
+cstddef
+-
+
+C:/Users/koboy/CLionProjects/hw5/main.cpp
+String.h
+C:/Users/koboy/CLionProjects/hw5/String.h
+vector
+-
+iostream
+-
+

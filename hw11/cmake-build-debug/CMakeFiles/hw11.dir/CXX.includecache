@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/koboy/CLionProjects/hw11/badFromString.cpp
+badFromString.h
+C:/Users/koboy/CLionProjects/hw11/badFromString.h
+
+C:/Users/koboy/CLionProjects/hw11/badFromString.h
+string
+-
+exception
+-
+
+C:/Users/koboy/CLionProjects/hw11/fromString.h
+string
+-
+badFromString.h
+C:/Users/koboy/CLionProjects/hw11/badFromString.h
+fromString.hpp
+C:/Users/koboy/CLionProjects/hw11/fromString.hpp
+
+C:/Users/koboy/CLionProjects/hw11/fromString.hpp
+sstream
+-
+fromString.h
+C:/Users/koboy/CLionProjects/hw11/fromString.h
+
+C:/Users/koboy/CLionProjects/hw11/main.cpp
+iostream
+-
+vector
+-
+fromString.h
+C:/Users/koboy/CLionProjects/hw11/fromString.h
+

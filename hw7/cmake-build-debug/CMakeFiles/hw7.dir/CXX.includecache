@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/koboy/CLionProjects/hw7/Array.h
+cstdio
+-
+
+C:/Users/koboy/CLionProjects/hw7/Array.hpp
+Array.h
+C:/Users/koboy/CLionProjects/hw7/Array.h
+
+C:/Users/koboy/CLionProjects/hw7/Functions.h
+Array.h
+C:/Users/koboy/CLionProjects/hw7/Array.h
+ostream
+C:/Users/koboy/CLionProjects/hw7/ostream
+
+C:/Users/koboy/CLionProjects/hw7/Functions.hpp
+Functions.h
+C:/Users/koboy/CLionProjects/hw7/Functions.h
+
+C:/Users/koboy/CLionProjects/hw7/main.cpp
+iostream
+-
+Array.hpp
+C:/Users/koboy/CLionProjects/hw7/Array.hpp
+Functions.hpp
+C:/Users/koboy/CLionProjects/hw7/Functions.hpp
+
